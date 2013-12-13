@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>backward.ico</file>
+        <file>forward (1).ico</file>
+        <file>gnome_view_refresh.ico</file>
+        <file>rating.ico</file>
+        <file>search.ico</file>
+    </qresource>
+</RCC>
